@@ -1,6 +1,5 @@
 <div align="center">
   <a href="https://github.com/your-username">
-    <img src="https://avatars.githubusercontent.com/u/your-github-id?s=400&v=4" width="150px" alt="Your GitHub Avatar">
   </a>
   <h1>Hello, I'm Kiều Thiện Bảo 👋</h1>
 </div>
