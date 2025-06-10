@@ -63,8 +63,8 @@ During my studies at Van Lang University, I've gained a solid foundation in:
 
 Currently, I'm seeking opportunities to participate in open-source projects or build personal projects to reinforce my knowledge.
 
-* Website for selling book https://github.com/tranguyenxuwu/web-bookstore.git
-* [Project Name 2](link-to-project-repo) - A brief description of the project.
+* Website for selling book - https://github.com/tranguyenxuwu/web-bookstore.git
+
 
 ---
 
