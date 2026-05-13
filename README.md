@@ -1,7 +1,7 @@
 # Hi there, I'm Kieu Thien Bao 👋
 
 ### 👨‍💻 About Me:
-* I am currently a final-year Software Engineering student at Van Lang University (VLU), expected to graduate in 2027.
+* I am currently a final-year Software Engineering student, expected to graduate in 2027.
 * I possess a solid technical background in Web/Mobile Development and Database Management, coupled with a strong mindset for business analysis and system design.
 * **Current Objective:** I am actively seeking a **part-time Business Analyst (BA) Internship**. I am eager to apply my analytical and programming skills to contribute to high-quality software solutions, while continuously learning and growing in a practical, real-world environment.
 
