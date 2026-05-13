@@ -42,5 +42,4 @@
 
 ### 📫 Get in touch:
 * **Email:** thienbao2256@gmail.com
-* **Phone:** +84 392846764
 * **LinkedIn:** [bảo-kiều-thiện](https://www.linkedin.com/in/bảo-kiều-thiện-6b0494352)
